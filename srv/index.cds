@@ -14,6 +14,7 @@ annotate CatalogService.SalesOrders with @(
             TypeNamePlural: '{i18n>Books}',
             Title: {Value: title},
             Description: {Value: quantity}
-        }
+        },
+        
     }
 );
